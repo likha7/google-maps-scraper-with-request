@@ -1,0 +1,14 @@
+places.json
+places.csv
+output.json
+output.csv
+
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# env
+.env
